@@ -98,7 +98,8 @@ print("Length of X_test: ", len(x_test))
 ```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![image](https://github.com/user-attachments/assets/84293347-5a8b-4ab4-9645-5e89ddbc06a2)
+
 
 
 ## RESULT:
