@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>P PARTHIBAN</H3>
+<H3>E212223230145</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>25.04.2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -99,20 +99,28 @@ print("Length of X_test: ", len(x_test))
 
 ## OUTPUT:
 
+### df.head(): 
 ![image](https://github.com/user-attachments/assets/84293347-5a8b-4ab4-9645-5e89ddbc06a2)
 
+### df.tail():
 ![image](https://github.com/user-attachments/assets/a915296f-541a-430b-8629-0343a6e483fd)
 
+### Missing Values:
 ![image](https://github.com/user-attachments/assets/9dc1c689-33e6-4070-bf3a-9d11c2777f20)
 
+### Duplicate values:
 ![image](https://github.com/user-attachments/assets/bb4d54bb-c2ca-4f2d-8e83-522463ec1b4a)
 
+### Normizing Data:
 ![image](https://github.com/user-attachments/assets/5a0a8767-e8a5-4939-8179-26c933a97372)
 
+### Training data:
 ![image](https://github.com/user-attachments/assets/9cea9888-6341-46a9-837c-0c3338040cd6)
 
+### Testing data:
 ![image](https://github.com/user-attachments/assets/7c46e792-6924-42f8-ab01-e330f741a3ec)
 
+### Length of X_test
 ![image](https://github.com/user-attachments/assets/b7310797-d7f8-482f-9ddc-f460185025c1)
 
 ## RESULT:
